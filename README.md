@@ -1,4 +1,4 @@
-# Out-of-Candidate Rectification for Weakly-supervised Semantic Segmentation
+# (CVPR2023) Out-of-Candidate Rectification for Weakly-supervised Semantic Segmentation
 
 The motivation of our paper, i.e., Out-of-Candidate Phenomenon of WSSS (Weakly-supervised Semantic Segmentation):
 
